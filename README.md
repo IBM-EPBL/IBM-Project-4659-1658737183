@@ -73,9 +73,9 @@ This Application has been developed to help the customer in processing their com
 | TEAM MEMBERS | FOLDER LINK    |
 | ------------- | ------------- |
 | Vishnu Vikas  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/N.Vishnu%20vikas(Team%20Leader)">CLICK HERE!  </a></button>                 
-| T S ABHIRAM | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/TS%20ABHIRAM%20(TEAM%20MEMBER%201)">CLICK HERE!  </a> </button> |
-| MADITHATI YUVATEJA REDDY     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/MADITHATI%20YUVATEJA%20REDDY%20(TEAM%20MEMBER%202)">CLICK HERE!  </a> </button> |
-| M YUGESH     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/M%20Yugesh%20(TEAM%20MEMBER%203)">CLICK HERE!  </a> </button> |
+| T S ABHIRAM | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/T%20S%20Abhiram(Team%20Member%204)">CLICK HERE!  </a> </button> |
+| MADITHATI YUVATEJA REDDY     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/M%20Yuvateja%20Reddy(Team%20Member%202)">CLICK HERE!  </a> </button> |
+| M YUGESH     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-4659-1658737183/tree/main/Assignments/M%20Yugesh(Team%20Member%203)">CLICK HERE!  </a> </button> |
 
 <hr>
 
